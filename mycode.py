@@ -1,5 +1,5 @@
-num = int(input("Enter a X:- "))
-num2 = int(input("Enter a Y:- "))
+n1 = int(input("Enter a X:- "))
+n2 = int(input("Enter a Y:- "))
 
-print(f"Sum is {num}+{num2}")
-print(f"Sub is {num}-{num2}")
+print("Sum is n1 + n2 = ",n1+n2)
+print("Sub is n1 - n2 = ",n1-n2)
