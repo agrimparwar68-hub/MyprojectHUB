@@ -1,5 +1,7 @@
-# Write a function to print oeven numbers from 1-100 usinf for loop 
+# Write a function to print even number from 1-100 using for loop 
 def even():
-    for i in range(1,101):
-        if i % 2 == 0:
-            print(i)
+    i = 0
+    while i < 101:
+        print(i)
+        i+=2
+even()
